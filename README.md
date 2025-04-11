@@ -1,5 +1,9 @@
 # Sanctuary Forge
 
-React + Tailwind Diablo-style loot roller app.
+Deploy this React + Vite app via Vercel.
 
-See `.env.example` for setup.
+## Setup
+- Add `.env` variables
+- Run `npm install`
+- Run `npm run dev` to test locally
+- Deploy to Vercel
