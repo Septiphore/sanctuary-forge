@@ -1,6 +1,6 @@
 # Sanctuary Forge
 
-This is a Vite + React project scaffolded for deployment on Vercel.
+This is the full source code for the Sanctuary Forge app.
 
 ## Setup
 
@@ -15,6 +15,7 @@ npm run dev
 ```
 
 3. Deploy to Vercel:
-- Make sure `public/index.html` exists (it does!)
-- Set env vars from `.env.example`
-- Done!
+- Import project from GitHub
+- Set environment variables from `.env.example`
+- Set build output to `dist`
+- Deploy and profit 🔥
